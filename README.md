@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Samyyak Jain
-- 👀 I’m interested in C++, Machine Learning, Cloud Computing, 
-- 🌱 I’m currently learning ...
+- I am 2 ⭐⭐ at Codechef.
+- 👀 I’m interested in Competitive Programming, C++, Machine Learning, Cloud Computing, 
+- 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 2samyakjain@gmail.com
 
 <!---
 samyak1512/samyak1512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
