@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Samyyak Jain
+- 👋 Hi, I’m Samyak Jain
 - I am 2 ⭐⭐ at Codechef.
 - 👀 I’m interested in Competitive Programming, C++, Machine Learning, Cloud Computing, 
 - 🌱 I’m currently learning Computer Science
